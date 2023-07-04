@@ -1,0 +1,2 @@
+# StupidGameRepository
+Stupid Game Repository
